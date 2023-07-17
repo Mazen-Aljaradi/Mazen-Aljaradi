@@ -52,10 +52,7 @@
 [![MySQL]](https://mysql.com/)
 [![Redis]](https://redis.io/)
 [![MongoDB]](https://www.mongodb.com/)
-[![ElasticSearch]](https://www.elastic.co/kr/elasticsearch/)
-[![Fluentd]](https://www.fluentd.org/)
-[![Neo4J]](https://neo4j.com/)
-[![hadoop]](https://hadoop.apache.org/)
+[![sqlserver]](https://hadoop.apache.org/)
 
 
 ## DevOps & Tools
@@ -128,7 +125,7 @@
 [neo4j]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=058aff&logoColor=058aff&label=&message=Neo4J&logo=neo4j
 [elasticsearch]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=%23005571&logoColor=%23005571&label=&message=ElasticSearch&logo=elasticsearch
 [fluentd]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=0E83C8&logoColor=0E83C8&label=&message=Fluentd&logo=fluentd&#000000
-[hadoop]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=66CCFF&logoColor=000000&label=&message=Hadoop&logo=apachehadoop&#000000
+[sqlserver]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=66CCFF&logoColor=000000&label=&message=Sqlserver&logo=microsoftsqlserver&#000000
 
 [tensorflow]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=ff6f00&logoColor=ff6f00&label=&message=TensorFlow&logo=tensorflow&#FF6F00
 [keras]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=d00000&logoColor=d00000&label=&message=Keras&logo=keras&#D00000
