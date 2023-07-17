@@ -63,28 +63,18 @@
 [![Git]](https://git-scm.com/)
 [![GitHub]](https://github.com/)
 [![Amazon Web Services]](https://aws.amazon.com/)
-
+[![Firebase]](https://github.com/)
 [![Docker]](https://www.docker.com/)
-[![K8S]](https://kubernetes.io/)
+
 [![Nginx]](https://www.nginx.com/)
 
 [![VSCode]](https://code.visualstudio.com/)
 [![intellij]](https://www.jetbrains.com/idea/)
 
-<details>
-  <summary>More</summary>
 
-[![Google Tag Manager]](https://marketingplatform.google.com/about/tag-manager/)
-[![Google Analytics]](https://marketingplatform.google.com/about/analytics/)
-[![Ubuntu]](https://ubuntu.com/)
-
-
-</details>
 
 ---
 
-[![Shields.io]](https://shields.io/)
-[![Simple Icons]](https://simpleicons.org/)
 
 <!-- Badge Links -->
 <!-- https://img.shields.io/static/v1?style=flat-square&label=&message=&labelColor=&color=&logoColor=&logo= -->
@@ -109,9 +99,10 @@
 [android]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=3DDC84&logoColor=3DDC84&label=&message=Android&logo=android&#3DDC84
 [flutter]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=02569B&logoColor=02569B&label=&message=Flutter&logo=flutter&#02569B
 [vue]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=4FC08D&logoColor=4FC08D&label=&message=Vue&logo=vuedotjs&#4FC08D
-[c#]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=239120&logoColor=239120&label=&message=C##&logo=csharp&#239120
+[c#]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=239120&logoColor=239120&label=&message=Csharp&logo=csharp&#239120
 [asp.net]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=512BD4&logoColor=512BD4&label=&message=ASP.netCore&logo=dotnet&#512BD4
 
+[firebase]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=FFCA28&logoColor=FFCA28&label=&message=Firebase&logo=firebase&#FFCA28
 
 [react]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=61dafb&logoColor=61dafb&label=&message=React&logo=react&#61DAFB
 [nextjs]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=000000&logoColor=000000&label=&message=Next.JS&logo=next.js
