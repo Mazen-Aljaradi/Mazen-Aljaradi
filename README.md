@@ -106,7 +106,7 @@
 [c++]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=00599c&logoColor=00599c&label=&message=C%2B%2B&logo=c%2B%2B&#00599C
 
 
-[android]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=61dafb&logoColor=61dafb&label=&message=Android&logo=android&#61DAFB
+[android]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=61dafb&logoColor=61dafb&label=&message=Android&logo=android&#3DDC84
 
 
 [react]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=61dafb&logoColor=61dafb&label=&message=React&logo=react&#61DAFB
