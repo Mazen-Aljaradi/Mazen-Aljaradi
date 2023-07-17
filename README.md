@@ -20,7 +20,7 @@
 ## Libraries & Frameworks
 
 [![Android]](https://reactjs.org/)
-[![Asp.net Core]](https://reactjs.org/)
+[![asp.net]](https://reactjs.org/)
 [![React]](https://reactjs.org/)
 [![Vue]](https://reactjs.org/)
 
@@ -107,6 +107,10 @@
 
 
 [android]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=3DDC84&logoColor=3DDC84&label=&message=Android&logo=android&#3DDC84
+[flutter]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=02569B&logoColor=02569B&label=&message=Flutter&logo=flutter&#02569B
+[vue]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=4FC08D&logoColor=4FC08D&label=&message=Vue&logo=vuedotjs&#4FC08D
+[c#]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=239120&logoColor=239120&label=&message=C#&logo=csharp&#239120
+[asp.net]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=512BD4&logoColor=512BD4&label=&message=ASP.netCore&logo=dotnet&#512BD4
 
 
 [react]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=61dafb&logoColor=61dafb&label=&message=React&logo=react&#61DAFB
