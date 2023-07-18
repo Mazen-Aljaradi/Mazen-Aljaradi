@@ -78,9 +78,9 @@
 
 <!-- Header -->
 
-[github stats]: https://github-readme-stats.vercel.app/api?username=Mineru98&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&theme=&show_icons=true&include_all_commits=true&count_private=true&line_height=24
+[github stats]: https://github-readme-stats.vercel.app/api?username=Mazen-aljaradi&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&theme=&show_icons=true&include_all_commits=true&count_private=true&line_height=24
 [top languages]: https://github-readme-stats.vercel.app/api/top-langs?username=Mineru98&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0&bg_color=212121&hide_border=true&hide_title=true&layout=compact&langs_count=8&hide=html,css,tex
-[github trophy]: https://github-profile-trophy.vercel.app/?username=Mineru98&theme=onedark&column=7&row=1&no-frame=true
+[github trophy]: https://github-profile-trophy.vercel.app/?username=Mazen-aljaradi&theme=onedark&column=7&row=1&no-frame=true
 
 <!-- Body -->
 
