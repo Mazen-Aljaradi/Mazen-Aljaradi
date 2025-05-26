@@ -11,15 +11,15 @@
 
   <!-- Profile Views -->
   <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=mazen.aljaradi&color=4010B0" height="23"/>
+      <img src="https://komarev.com/ghpvc/?username=mazen-aljaradi&color=4010B0" height="23"/>
   </p>
 
   <!-- WhatsApp Channel & LinkedIn -->
   <p align="center">
-    <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
+    <a href="">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="60"/>
     </a>
-    <a href="https://www.linkedin.com/in/a-hemeda">
+    <a href="https://www.linkedin.com/in/mazen.aljaradi">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60"/>
     </a>
   </p>
@@ -31,12 +31,12 @@
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=mazen-aljaradi&theme=onestar&row=1&column=7"/>
   </p>
 
   <!-- Languages -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=5&theme=codeSTACKr"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazen-aljaradi&layout=compact&langs_count=5&theme=codeSTACKr"/>
   </p>
 
   <!-- Snake -->
